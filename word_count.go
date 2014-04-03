@@ -22,5 +22,5 @@ func WordCount(s string) map[string]int {
 }
 
 func main() {
-	fmt.Println(WordCount("the quick brown fox jumped over the lazy dog"))
+	fmt.Println(WordCount("one fish, two fish, red fish, blue fish"))
 }
